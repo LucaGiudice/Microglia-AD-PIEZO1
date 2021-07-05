@@ -9,7 +9,6 @@
 ***DESCRIPTION OF WORKFLOW***
 ********************************
 
-![Test Image 8](https://raw.githubusercontent.com/LucaGiudice/Microglia-AD-PIEZO1/main/images_github/Immagine3.png)
 ![Test Image 8](https://raw.githubusercontent.com/LucaGiudice/Microglia-AD-PIEZO1/main/images_github/Immagine1.png)
 
 METHOD section: analysis of Piezo1 in Grubman’s et al. snRNA, Keren-Shaul’s et al. scRNA and Zhou’s et al scRNA datasets
