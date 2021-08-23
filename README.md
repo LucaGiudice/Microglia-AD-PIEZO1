@@ -1,4 +1,4 @@
-# Supplementary repository to replicate the analysis in the paper: Microglial amyloid plaque clearance is driven by PIEZO1 channels
+# Analysis for Microglial amyloid plaque clearance driven by PIEZO1 channels
 
 ********************************
 ***CONTENT OF THIS REPOSITORY***
